@@ -1,5 +1,5 @@
-<H3>Name: Bairav Skandan Loha</H3>
-<H3>Reg No: 212221230010</H3>
+<H3>Name: M.Shyam Naveen Raj</H3>
+<H3>Reg No: 212221230099</H3>
 <H3>Ex. No: 7</H3>
 <H3>Date: 23/04/2024</H3>
 <H1 ALIGN =CENTER>Implementation of Text  Summarization</H1>
